@@ -1,3 +1,13 @@
-br\edu\utfpr\pb\oo24s\trabalhof\dao\GenericDao.class
 br\edu\utfpr\pb\oo24s\trabalhof\main\MainApp.class
+br\edu\utfpr\pb\oo24s\trabalhof\model\Contato.class
+br\edu\utfpr\pb\oo24s\trabalhof\util\BooleanConverter.class
+br\edu\utfpr\pb\oo24s\trabalhof\model\Quarto.class
+br\edu\utfpr\pb\oo24s\trabalhof\model\Cliente.class
+br\edu\utfpr\pb\oo24s\trabalhof\model\Produto.class
+br\edu\utfpr\pb\oo24s\trabalhof\model\Reserva.class
+br\edu\utfpr\pb\oo24s\trabalhof\model\Usuario.class
+br\edu\utfpr\pb\oo24s\trabalhof\model\AbstractModel.class
 br\edu\utfpr\pb\oo24s\trabalhof\util\EntityManagerUtil.class
+br\edu\utfpr\pb\oo24s\trabalhof\dao\GenericDao.class
+br\edu\utfpr\pb\oo24s\trabalhof\model\CategoriaProduto.class
+br\edu\utfpr\pb\oo24s\trabalhof\model\TipoQuarto.class
